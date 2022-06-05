@@ -14,6 +14,7 @@ Create XHTML document to describe a table with the following contents: The colum
 
 ## Table Problem 2
 
+Write HTML code for following table.
 
 ## Screenshots
 
