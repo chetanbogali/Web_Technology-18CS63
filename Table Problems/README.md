@@ -5,7 +5,7 @@ HTML tables allow us to arrange data into rows and columns.
 
 ## Table Problem 1
 
-
+Create XHTML document to describe a table with the following contents: The columns of the table must have the headings pine, maple, oak and fir. The two rows must have the labels average height, average width, typical lifespan and leaf type. Fill the data cells with some values.
 
 ## Screenshots
 
