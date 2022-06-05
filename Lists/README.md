@@ -6,7 +6,7 @@ There are two lists shown below that is ordered list and unordered list
 
 ## Order list
 
-By default it assign numbers to list
+By default it assign numbers to list items
 
 ## Screenshots
 
@@ -15,7 +15,7 @@ By default it assign numbers to list
 
 ## Unorder list
 
-By default it assign dark circle to list
+By default it assign dark circle to list items
 ## Screenshots
 
 ![App Screenshot](https://github.com/chetanbogali/Web_Technology-18CS63/blob/main/Screenshots/Unorder%20list.png)
